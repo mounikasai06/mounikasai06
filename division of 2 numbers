@@ -1,0 +1,15 @@
+import java.util.*;
+public class Div
+{
+public static void main(String args[])
+{
+int a,b,div;
+Scanner sc=new Scanner(System.in);
+System.out.println("enter a");
+a=sc.nextInt();
+System.out.println("enter b");
+b=sc.nextInt();
+div=a%b;
+System.out.println("division of 2 nums is "+div);
+}}
+
