@@ -1,0 +1,14 @@
+import java.util.*;
+public class Sub
+{
+public static void main(String args[])
+{
+int a,b,sub;
+Scanner sc=new Scanner(System.in);
+System.out.println("enter a");
+a=sc.nextInt();
+System.out.println("enter b");
+b=sc.nextInt();
+sub=a-b;
+System.out.println("subtraction of 2 nums is "+sub);
+}}
