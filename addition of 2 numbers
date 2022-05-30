@@ -1,0 +1,16 @@
+
+import java.util.*;
+public class Add
+{
+public static void main(String args[])
+{
+int a,b,add;
+Scanner sc=new Scanner(System.in);
+System.out.println("enter a");
+a=sc.nextInt();
+System.out.println("enter b");
+b=sc.nextInt();
+add=a+b;
+System.out.println("addition of 2 nums is "+add);
+}}
+
