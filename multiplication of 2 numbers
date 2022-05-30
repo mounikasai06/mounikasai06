@@ -1,0 +1,15 @@
+import java.util.*;
+public class Mul
+{
+public static void main(String args[])
+{
+int a,b,mul;
+Scanner sc=new Scanner(System.in);
+System.out.println("enter a");
+a=sc.nextInt();
+System.out.println("enter b");
+b=sc.nextInt();
+mul=a*b;
+System.out.println("multiplication  of 2 nums is "+mul);
+}}
+
